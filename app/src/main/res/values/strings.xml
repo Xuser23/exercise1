@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">exercise1</string>
+    <string name="loginEmail">Masukkan Email</string>
+    <string name="loginPass">Masukkan Password</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="signUp">Belum Terdaftar?</string>
+
+<!--    info admin-->
+    <string-array name="email">
+        <item>admin@mail.com</item>
+        <item>admin2@mail.com</item>
+        <item>admin3@mail.com</item>
+    </string-array>
+
+    <string-array name="pass">
+        <item>admin1</item>
+        <item>admin2</item>
+        <item>admin3</item>
+    </string-array>
 </resources>
