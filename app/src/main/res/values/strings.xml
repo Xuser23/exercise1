@@ -4,8 +4,9 @@
     <string name="loginPass">Masukkan Password</string>
     <string name="btnSignIn">Sign In</string>
     <string name="signUp">Belum Terdaftar?</string>
+    <string name="pendaftaran">Pendaftaran</string>
 
-<!--    info admin-->
+    <!--    info admin-->
     <string-array name="email">
         <item>admin@mail.com</item>
         <item>admin2@mail.com</item>
